@@ -359,8 +359,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+FOR PULSE AT 500
 ![WhatsApp Image 2025-11-02 at 20 01 40_f87cb946](https://github.com/user-attachments/assets/e57ff8f5-bbbb-4c00-8ff9-6281a1a2a02f)
+
+FOR PULSE AT 700
 ![WhatsApp Image 2025-11-02 at 20 55 07_24b99110](https://github.com/user-attachments/assets/f5c29c91-82c8-4f91-8198-113192c113a6)
+
+FOR PULSE AT 900
 ![WhatsApp Image 2025-11-02 at 21 03 29_3718faca](https://github.com/user-attachments/assets/c3351716-bf18-4f3f-8e07-c9ba64ad4fb6)
 
 
@@ -374,17 +379,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 Ampere = 5 x 1V = 5V
 
-FOR PULSE AT 500
-
-TON = 1.5 × 0.5 = 0.75ms
-
-TOFF= 3.5 × 0.5 = 1.75ms
-
-TOTAL TIME = 5 × 0.5m = 2.5ms
-
-FREQUENCY = 1/(TOTAL TIME)= 1/2.5ms = 400 Hz
-
-FOR PULSE AT 700
+### FOR PULSE AT 700
 
 TON = 1.5 × 0.7m = 1.05ms
 
@@ -395,7 +390,7 @@ TOTAL TIME = 5 × 0.7m = 3.5ms
 FREQUENCY = 1/(TOTAL TIME)= 1/3.5ms = 285.7 Hz
 
 
-FOR PULSE AT 900
+### FOR PULSE AT 900
 
 TON = 1.5 × 0.9m = 1.35ms
 
