@@ -1,4 +1,6 @@
-# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+# EXPERIMENT 07 SQUARE WAVE GENERATION AT THE OUTPUT PIN USING TIMER
+## NAME: GANESH D
+## REG.NO: 212223240035
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
@@ -378,25 +380,33 @@ FOR PULSE AT 900
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 
 Ampere = 5 x 1V = 5V
+### FOR PULSE AT 500
+TON = 1.5 × 0.5 = 0.75ms
+
+TOFF= 3.5 × 0.5 = 1.75ms
+
+TOTAL TIME = 5 × 0.5 = 2.5ms
+
+FREQUENCY = 1/(TOTAL TIME)= 1/2.5ms = 400 Hz
 
 ### FOR PULSE AT 700
 
-TON = 1.5 × 0.7m = 1.05ms
+TON = 1.5 × 0.7 = 1.05ms
 
-TOFF= 3.5 × 0.7m = 2.45ms
+TOFF= 3.5 × 0.7 = 2.45ms
 
-TOTAL TIME = 5 × 0.7m = 3.5ms
+TOTAL TIME = 5 × 0.7 = 3.5ms
 
 FREQUENCY = 1/(TOTAL TIME)= 1/3.5ms = 285.7 Hz
 
 
 ### FOR PULSE AT 900
 
-TON = 1.5 × 0.9m = 1.35ms
+TON = 1.5 × 0.9 = 1.35ms
 
-TOFF= 3.5 × 0.9m = 3.15ms
+TOFF= 3.5 × 0.9 = 3.15ms
 
-TOTAL TIME = 5 × 0.9m = 4.5ms
+TOTAL TIME = 5 × 0.9 = 4.5ms
 
 FREQUENCY = 1/(TOTAL TIME)= 1/4.5ms = 222.2 Hz
 
