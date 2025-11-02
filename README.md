@@ -377,23 +377,32 @@ Ampere = 5 x 1V = 5V
 FOR PULSE AT 500
 
 TON = 1.5 × 0.5 = 0.75ms
+
 TOFF= 3.5 × 0.5 = 1.75ms
+
 TOTAL TIME = 5 × 0.5m = 2.5ms
+
 FREQUENCY = 1/(TOTAL TIME)= 1/2.5ms = 400 Hz
 
 FOR PULSE AT 700
 
 TON = 1.5 × 0.7m = 1.05ms
+
 TOFF= 3.5 × 0.7m = 2.45ms
+
 TOTAL TIME = 5 × 0.7m = 3.5ms
+
 FREQUENCY = 1/(TOTAL TIME)= 1/3.5ms = 285.7 Hz
 
 
 FOR PULSE AT 900
 
 TON = 1.5 × 0.9m = 1.35ms
+
 TOFF= 3.5 × 0.9m = 3.15ms
+
 TOTAL TIME = 5 × 0.9m = 4.5ms
+
 FREQUENCY = 1/(TOTAL TIME)= 1/4.5ms = 222.2 Hz
 
 
